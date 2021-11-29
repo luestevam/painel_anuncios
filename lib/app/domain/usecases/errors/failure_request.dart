@@ -1,0 +1,3 @@
+
+class FailureRequest  implements Exception{}
+
